@@ -12,7 +12,19 @@
 
 如果是的话那就太棒啦~
 
-你可以加入我们，请发送至邮箱 me@cn114514.ml 或 me@off.cx 你的Github用户名！（至少目前只有这一种方式）
+---
+
+### 加入我们
+
+#### 推荐
+
+在 [此Rope](https://github.com/CNHOMO/About) 中创建 Issues [点击创建](https://github.com/CNHOMO/About/issues/new/choose)
+
+#### 不推荐
+
+发送至邮箱 me@cn114514.ml 或 me@off.cx 你的Github用户名
+
+---
 
 在这里，你可以将您最得意的项目库Fork进来，当然，你也可以直接在这里进行开发项目！
 
