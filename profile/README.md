@@ -1,3 +1,13 @@
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="LGBT-CN logo" src="https://avatars.githubusercontent.com/u/115162810?s=88&v=4">
+
+# HOMO in China
+
+[![LGBT-CN Badge](https://img.shields.io/badge/Support-LGBTQIA-FF0000)](https://github.com/CNHOMO)
+[![Telegram Group](https://img.shields.io/badge/Telegram-CNHOMO-FFA500.svg)](https://t.me/CNHOMO)
+![Count Signature Number](https://github.com/LGBT-CN/LGBTQIA-in-China/workflows/Count%20Signature%20Number/badge.svg?style=flat-square)
+
+> 中国 HOMO 们团结的力量是强大的~！
+
 ### 前言
 
 嘿！
