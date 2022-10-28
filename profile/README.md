@@ -2,7 +2,7 @@
 
 # HOMO in China
 
-[![LGBT-CN Badge](https://img.shields.io/badge/Support-LGBTQIA-FF0000)](https://github.com/CNHOMO)
+[![CNHOMO Badge](https://img.shields.io/badge/Support-CNHOMO-FF0000)](https://github.com/CNHOMO)
 [![Telegram Group](https://img.shields.io/badge/Telegram-CNHOMO-FFA500.svg)](https://t.me/CNHOMO)
 ![Count Signature Number](https://github.com/LGBT-CN/LGBTQIA-in-China/workflows/Count%20Signature%20Number/badge.svg?style=flat-square)
 
