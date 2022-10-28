@@ -36,7 +36,7 @@
 
 发送至邮箱 me@cn114514.ml 或 me@off.cx 您的Github用户名
 
-或 可添加 [Telegram好友](https://t.me/NiuFuyu_CN) 并发送您的Github用户名
+或 可添加（或私聊） [Telegram好友](https://t.me/NiuFuyu_CN) 并发送您的Github用户名 （目前并未创建审核群，人多了会建立的~ 敬请期待哦~！）
 
 ---
 
