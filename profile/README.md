@@ -34,7 +34,9 @@
 
 #### 不推荐
 
-发送至邮箱 me@cn114514.ml 或 me@off.cx 你的Github用户名
+发送至邮箱 me@cn114514.ml 或 me@off.cx 您的Github用户名
+
+或 可添加 [Telegram好友](https://t.me/NiuFuyu_CN) 并发送您的Github用户名
 
 ---
 
